@@ -1,0 +1,97 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.table {
+    direction: rtl;
+}
+.hamed .gh{
+padding-right: 30%;
+padding-top: 20%;
+flex-direction: column;
+}
+.hamed .gh{
+height: 600px;
+width: 100%;
+background-image: url("../images/3_b40b7d6d-6a74-42eb-b90c-653d22ddd316.webp");
+background-position: center left;
+background-repeat: no-repeat;
+background-size: cover;
+color: #fff;
+}
+ .hamed{
+background-color: burlywood;
+box-shadow: 12px 12px 12px rgb(0,0,0,0.25);
+}
+.rt img{
+    height: 400px;
+}
+/* اتصل بنا */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+}
+
+.form-control {
+    border-radius: 5px;
+}
+
+.btn-primary {
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.invalid-feedback {
+    font-size: 0.9em;
+}
+.mn img{
+    width: 300px;
+}
+/* فوتر */
+body {
+    font-family: 'Arial', sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    margin-top: auto; /* لضمان بقاء الفوتر في الأسفل */
+}
+
+footer h5 {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+    color: #f8f9fa;
+}
+
+footer a:hover {
+    color: #00d4ff !important;
+    text-decoration: underline;
+}
+
+.social-icons i {
+    font-size: 1.5rem;
+    transition: color 0.3s;
+}
+
+.social-icons a:hover i {
+    color: #00d4ff;
+}
+
+hr {
+    opacity: 0.2;
+}
